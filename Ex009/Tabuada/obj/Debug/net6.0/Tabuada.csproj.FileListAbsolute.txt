@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex009\Tabuada\bin\Debug\net6.0\Tabuada.exe
+E:\.Documentos\C#\Ex009\Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+E:\.Documentos\C#\Ex009\Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+E:\.Documentos\C#\Ex009\Tabuada\bin\Debug\net6.0\Tabuada.dll
+E:\.Documentos\C#\Ex009\Tabuada\bin\Debug\net6.0\ref\Tabuada.dll
+E:\.Documentos\C#\Ex009\Tabuada\bin\Debug\net6.0\Tabuada.pdb
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.dll
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\ref\Tabuada.dll
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.pdb
+E:\.Documentos\C#\Ex009\Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex011\Área de uma parede\bin\Debug\net6.0\Área de uma parede.exe
+E:\.Documentos\C#\Ex011\Área de uma parede\bin\Debug\net6.0\Área de uma parede.deps.json
+E:\.Documentos\C#\Ex011\Área de uma parede\bin\Debug\net6.0\Área de uma parede.runtimeconfig.json
+E:\.Documentos\C#\Ex011\Área de uma parede\bin\Debug\net6.0\Área de uma parede.dll
+E:\.Documentos\C#\Ex011\Área de uma parede\bin\Debug\net6.0\ref\Área de uma parede.dll
+E:\.Documentos\C#\Ex011\Área de uma parede\bin\Debug\net6.0\Área de uma parede.pdb
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.AssemblyInfo.cs
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.dll
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\ref\Área de uma parede.dll
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.pdb
+E:\.Documentos\C#\Ex011\Área de uma parede\obj\Debug\net6.0\Área de uma parede.genruntimeconfig.cache

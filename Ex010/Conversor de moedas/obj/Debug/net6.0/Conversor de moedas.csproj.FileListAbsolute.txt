@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex010\Conversor de moedas\bin\Debug\net6.0\Conversor de moedas.exe
+E:\.Documentos\C#\Ex010\Conversor de moedas\bin\Debug\net6.0\Conversor de moedas.deps.json
+E:\.Documentos\C#\Ex010\Conversor de moedas\bin\Debug\net6.0\Conversor de moedas.runtimeconfig.json
+E:\.Documentos\C#\Ex010\Conversor de moedas\bin\Debug\net6.0\Conversor de moedas.dll
+E:\.Documentos\C#\Ex010\Conversor de moedas\bin\Debug\net6.0\ref\Conversor de moedas.dll
+E:\.Documentos\C#\Ex010\Conversor de moedas\bin\Debug\net6.0\Conversor de moedas.pdb
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.AssemblyInfo.cs
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.dll
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\ref\Conversor de moedas.dll
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.pdb
+E:\.Documentos\C#\Ex010\Conversor de moedas\obj\Debug\net6.0\Conversor de moedas.genruntimeconfig.cache

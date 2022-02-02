@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dde32bd5-e982-4693-86d4-53b5283a4e96": {
+      "ProjectGuid": "dde32bd5-e982-4693-86d4-53b5283a4e96",
+      "DisplayName": "Conversor de moedas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
