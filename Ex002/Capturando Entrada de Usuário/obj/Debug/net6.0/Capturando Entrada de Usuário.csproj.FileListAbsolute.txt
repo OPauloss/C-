@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\bin\Debug\net6.0\Capturando Entrada de Usuário.exe
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\bin\Debug\net6.0\Capturando Entrada de Usuário.deps.json
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\bin\Debug\net6.0\Capturando Entrada de Usuário.runtimeconfig.json
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\bin\Debug\net6.0\Capturando Entrada de Usuário.dll
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\bin\Debug\net6.0\ref\Capturando Entrada de Usuário.dll
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\bin\Debug\net6.0\Capturando Entrada de Usuário.pdb
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.AssemblyInfo.cs
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.dll
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\ref\Capturando Entrada de Usuário.dll
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.pdb
+E:\.Documentos\C#\Ex002\Capturando Entrada de Usuário\obj\Debug\net6.0\Capturando Entrada de Usuário.genruntimeconfig.cache

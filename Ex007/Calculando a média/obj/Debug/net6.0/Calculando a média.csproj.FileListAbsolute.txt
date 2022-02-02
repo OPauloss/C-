@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex007\Calculando a média\bin\Debug\net6.0\Calculando a média.exe
+E:\.Documentos\C#\Ex007\Calculando a média\bin\Debug\net6.0\Calculando a média.deps.json
+E:\.Documentos\C#\Ex007\Calculando a média\bin\Debug\net6.0\Calculando a média.runtimeconfig.json
+E:\.Documentos\C#\Ex007\Calculando a média\bin\Debug\net6.0\Calculando a média.dll
+E:\.Documentos\C#\Ex007\Calculando a média\bin\Debug\net6.0\ref\Calculando a média.dll
+E:\.Documentos\C#\Ex007\Calculando a média\bin\Debug\net6.0\Calculando a média.pdb
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.AssemblyInfo.cs
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.dll
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\ref\Calculando a média.dll
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.pdb
+E:\.Documentos\C#\Ex007\Calculando a média\obj\Debug\net6.0\Calculando a média.genruntimeconfig.cache

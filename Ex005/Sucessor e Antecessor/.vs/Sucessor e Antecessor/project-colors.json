@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f10a0415-a3c4-4cbd-810b-0deb5bf614b3": {
+      "ProjectGuid": "f10a0415-a3c4-4cbd-810b-0deb5bf614b3",
+      "DisplayName": "Sucessor e Antecessor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

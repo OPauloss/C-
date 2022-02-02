@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex006\Operações matemáticas\bin\Debug\net6.0\Operações matemáticas.exe
+E:\.Documentos\C#\Ex006\Operações matemáticas\bin\Debug\net6.0\Operações matemáticas.deps.json
+E:\.Documentos\C#\Ex006\Operações matemáticas\bin\Debug\net6.0\Operações matemáticas.runtimeconfig.json
+E:\.Documentos\C#\Ex006\Operações matemáticas\bin\Debug\net6.0\Operações matemáticas.dll
+E:\.Documentos\C#\Ex006\Operações matemáticas\bin\Debug\net6.0\ref\Operações matemáticas.dll
+E:\.Documentos\C#\Ex006\Operações matemáticas\bin\Debug\net6.0\Operações matemáticas.pdb
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.AssemblyInfo.cs
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.dll
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\ref\Operações matemáticas.dll
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.pdb
+E:\.Documentos\C#\Ex006\Operações matemáticas\obj\Debug\net6.0\Operações matemáticas.genruntimeconfig.cache

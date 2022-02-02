@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mensagem de boas-vindas/1.0.0": {
+        "runtime": {
+          "Mensagem de boas-vindas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mensagem de boas-vindas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

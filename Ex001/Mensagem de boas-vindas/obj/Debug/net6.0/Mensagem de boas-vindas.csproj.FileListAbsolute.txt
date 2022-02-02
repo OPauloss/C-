@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\bin\Debug\net6.0\Mensagem de boas-vindas.exe
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\bin\Debug\net6.0\Mensagem de boas-vindas.deps.json
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\bin\Debug\net6.0\Mensagem de boas-vindas.runtimeconfig.json
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\bin\Debug\net6.0\Mensagem de boas-vindas.dll
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\bin\Debug\net6.0\ref\Mensagem de boas-vindas.dll
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\bin\Debug\net6.0\Mensagem de boas-vindas.pdb
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.AssemblyInfo.cs
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.dll
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\ref\Mensagem de boas-vindas.dll
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.pdb
+E:\.Documentos\C#\Ex001\Mensagem de boas-vindas\obj\Debug\net6.0\Mensagem de boas-vindas.genruntimeconfig.cache

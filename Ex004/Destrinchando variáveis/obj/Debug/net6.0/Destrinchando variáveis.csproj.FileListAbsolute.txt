@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\bin\Debug\net6.0\Destrinchando variáveis.exe
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\bin\Debug\net6.0\Destrinchando variáveis.deps.json
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\bin\Debug\net6.0\Destrinchando variáveis.runtimeconfig.json
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\bin\Debug\net6.0\Destrinchando variáveis.dll
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\bin\Debug\net6.0\ref\Destrinchando variáveis.dll
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\bin\Debug\net6.0\Destrinchando variáveis.pdb
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.AssemblyInfo.cs
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.dll
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\ref\Destrinchando variáveis.dll
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.pdb
+E:\.Documentos\C#\Ex004\Destrinchando variáveis\obj\Debug\net6.0\Destrinchando variáveis.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculando a média/1.0.0": {
+        "runtime": {
+          "Calculando a média.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculando a média/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

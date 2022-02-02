@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\bin\Debug\net6.0\Sucessor e Antecessor.exe
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\bin\Debug\net6.0\Sucessor e Antecessor.deps.json
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\bin\Debug\net6.0\Sucessor e Antecessor.runtimeconfig.json
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\bin\Debug\net6.0\Sucessor e Antecessor.dll
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\bin\Debug\net6.0\ref\Sucessor e Antecessor.dll
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\bin\Debug\net6.0\Sucessor e Antecessor.pdb
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.AssemblyInfo.cs
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.dll
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\ref\Sucessor e Antecessor.dll
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.pdb
+E:\.Documentos\C#\Ex005\Sucessor e Antecessor\obj\Debug\net6.0\Sucessor e Antecessor.genruntimeconfig.cache

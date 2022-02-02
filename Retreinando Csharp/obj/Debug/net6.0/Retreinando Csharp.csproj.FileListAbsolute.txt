@@ -13,3 +13,18 @@ E:\.Documentos\C#\Retreinando C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando
 E:\.Documentos\C#\Retreinando C#\Retreinando Csharp\obj\Debug\net6.0\ref\Retreinando Csharp.dll
 E:\.Documentos\C#\Retreinando C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.pdb
 E:\.Documentos\C#\Retreinando C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.genruntimeconfig.cache
+E:\.Documentos\C#\Retreinando Csharp\bin\Debug\net6.0\Retreinando Csharp.exe
+E:\.Documentos\C#\Retreinando Csharp\bin\Debug\net6.0\Retreinando Csharp.deps.json
+E:\.Documentos\C#\Retreinando Csharp\bin\Debug\net6.0\Retreinando Csharp.runtimeconfig.json
+E:\.Documentos\C#\Retreinando Csharp\bin\Debug\net6.0\Retreinando Csharp.dll
+E:\.Documentos\C#\Retreinando Csharp\bin\Debug\net6.0\ref\Retreinando Csharp.dll
+E:\.Documentos\C#\Retreinando Csharp\bin\Debug\net6.0\Retreinando Csharp.pdb
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.AssemblyInfo.cs
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.dll
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\ref\Retreinando Csharp.dll
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.pdb
+E:\.Documentos\C#\Retreinando Csharp\obj\Debug\net6.0\Retreinando Csharp.genruntimeconfig.cache

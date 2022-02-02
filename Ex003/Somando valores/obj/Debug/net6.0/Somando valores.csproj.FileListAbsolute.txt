@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex003\Somando valores\bin\Debug\net6.0\Somando valores.exe
+E:\.Documentos\C#\Ex003\Somando valores\bin\Debug\net6.0\Somando valores.deps.json
+E:\.Documentos\C#\Ex003\Somando valores\bin\Debug\net6.0\Somando valores.runtimeconfig.json
+E:\.Documentos\C#\Ex003\Somando valores\bin\Debug\net6.0\Somando valores.dll
+E:\.Documentos\C#\Ex003\Somando valores\bin\Debug\net6.0\ref\Somando valores.dll
+E:\.Documentos\C#\Ex003\Somando valores\bin\Debug\net6.0\Somando valores.pdb
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.AssemblyInfo.cs
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.dll
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\ref\Somando valores.dll
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.pdb
+E:\.Documentos\C#\Ex003\Somando valores\obj\Debug\net6.0\Somando valores.genruntimeconfig.cache

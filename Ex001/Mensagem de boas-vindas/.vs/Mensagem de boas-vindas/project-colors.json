@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9986e1bc-359a-4b96-9d8e-b9303af68fce": {
+      "ProjectGuid": "9986e1bc-359a-4b96-9d8e-b9303af68fce",
+      "DisplayName": "Mensagem de boas-vindas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

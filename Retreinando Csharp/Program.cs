@@ -95,7 +95,7 @@ int num = random.Next(1, 21); // Gera um número aleatório entre 1 e 20. Rola u
 int num2 = num + 100; // É possível incrementar, também
 double num3 = random.NextDouble(); // Gera um número decimal entre 0 e 1.
 
-Console.WriteLine(num3);
+Console.WriteLine(num);
 Console.ReadKey();  
 
 

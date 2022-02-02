@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sucessor e Antecessor/1.0.0": {
+        "runtime": {
+          "Sucessor e Antecessor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sucessor e Antecessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
