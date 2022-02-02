@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex008\Conversor de medidas\bin\Debug\net6.0\Conversor de medidas.exe
+E:\.Documentos\C#\Ex008\Conversor de medidas\bin\Debug\net6.0\Conversor de medidas.deps.json
+E:\.Documentos\C#\Ex008\Conversor de medidas\bin\Debug\net6.0\Conversor de medidas.runtimeconfig.json
+E:\.Documentos\C#\Ex008\Conversor de medidas\bin\Debug\net6.0\Conversor de medidas.dll
+E:\.Documentos\C#\Ex008\Conversor de medidas\bin\Debug\net6.0\ref\Conversor de medidas.dll
+E:\.Documentos\C#\Ex008\Conversor de medidas\bin\Debug\net6.0\Conversor de medidas.pdb
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.AssemblyInfo.cs
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.dll
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\ref\Conversor de medidas.dll
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.pdb
+E:\.Documentos\C#\Ex008\Conversor de medidas\obj\Debug\net6.0\Conversor de medidas.genruntimeconfig.cache

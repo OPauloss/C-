@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adab93a1-2cb5-423d-aef7-adf09039c427": {
+      "ProjectGuid": "adab93a1-2cb5-423d-aef7-adf09039c427",
+      "DisplayName": "Conversor de medidas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
