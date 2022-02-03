@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex015\Aluguel de carros\bin\Debug\net6.0\Aluguel de carros.exe
+E:\.Documentos\C#\Ex015\Aluguel de carros\bin\Debug\net6.0\Aluguel de carros.deps.json
+E:\.Documentos\C#\Ex015\Aluguel de carros\bin\Debug\net6.0\Aluguel de carros.runtimeconfig.json
+E:\.Documentos\C#\Ex015\Aluguel de carros\bin\Debug\net6.0\Aluguel de carros.dll
+E:\.Documentos\C#\Ex015\Aluguel de carros\bin\Debug\net6.0\ref\Aluguel de carros.dll
+E:\.Documentos\C#\Ex015\Aluguel de carros\bin\Debug\net6.0\Aluguel de carros.pdb
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.AssemblyInfo.cs
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.dll
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\ref\Aluguel de carros.dll
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.pdb
+E:\.Documentos\C#\Ex015\Aluguel de carros\obj\Debug\net6.0\Aluguel de carros.genruntimeconfig.cache

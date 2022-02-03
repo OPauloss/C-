@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex014\Conversor de temperatura\bin\Debug\net6.0\Conversor de temperatura.exe
+E:\.Documentos\C#\Ex014\Conversor de temperatura\bin\Debug\net6.0\Conversor de temperatura.deps.json
+E:\.Documentos\C#\Ex014\Conversor de temperatura\bin\Debug\net6.0\Conversor de temperatura.runtimeconfig.json
+E:\.Documentos\C#\Ex014\Conversor de temperatura\bin\Debug\net6.0\Conversor de temperatura.dll
+E:\.Documentos\C#\Ex014\Conversor de temperatura\bin\Debug\net6.0\ref\Conversor de temperatura.dll
+E:\.Documentos\C#\Ex014\Conversor de temperatura\bin\Debug\net6.0\Conversor de temperatura.pdb
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.AssemblyInfo.cs
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.dll
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\ref\Conversor de temperatura.dll
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.pdb
+E:\.Documentos\C#\Ex014\Conversor de temperatura\obj\Debug\net6.0\Conversor de temperatura.genruntimeconfig.cache

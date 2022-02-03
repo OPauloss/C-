@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex017\Hipotenusa\bin\Debug\net6.0\Hipotenusa.exe
+E:\.Documentos\C#\Ex017\Hipotenusa\bin\Debug\net6.0\Hipotenusa.deps.json
+E:\.Documentos\C#\Ex017\Hipotenusa\bin\Debug\net6.0\Hipotenusa.runtimeconfig.json
+E:\.Documentos\C#\Ex017\Hipotenusa\bin\Debug\net6.0\Hipotenusa.dll
+E:\.Documentos\C#\Ex017\Hipotenusa\bin\Debug\net6.0\ref\Hipotenusa.dll
+E:\.Documentos\C#\Ex017\Hipotenusa\bin\Debug\net6.0\Hipotenusa.pdb
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.AssemblyInfo.cs
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.dll
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\ref\Hipotenusa.dll
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.pdb
+E:\.Documentos\C#\Ex017\Hipotenusa\obj\Debug\net6.0\Hipotenusa.genruntimeconfig.cache

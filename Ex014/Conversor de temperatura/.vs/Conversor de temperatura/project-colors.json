@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35130be6-d880-41e4-be17-1ffda4c3a981": {
+      "ProjectGuid": "35130be6-d880-41e4-be17-1ffda4c3a981",
+      "DisplayName": "Conversor de temperatura",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

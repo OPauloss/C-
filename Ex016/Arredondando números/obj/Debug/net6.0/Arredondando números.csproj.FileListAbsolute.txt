@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex016\Arredondando números\bin\Debug\net6.0\Arredondando números.exe
+E:\.Documentos\C#\Ex016\Arredondando números\bin\Debug\net6.0\Arredondando números.deps.json
+E:\.Documentos\C#\Ex016\Arredondando números\bin\Debug\net6.0\Arredondando números.runtimeconfig.json
+E:\.Documentos\C#\Ex016\Arredondando números\bin\Debug\net6.0\Arredondando números.dll
+E:\.Documentos\C#\Ex016\Arredondando números\bin\Debug\net6.0\ref\Arredondando números.dll
+E:\.Documentos\C#\Ex016\Arredondando números\bin\Debug\net6.0\Arredondando números.pdb
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.AssemblyInfo.cs
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.dll
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\ref\Arredondando números.dll
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.pdb
+E:\.Documentos\C#\Ex016\Arredondando números\obj\Debug\net6.0\Arredondando números.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex013\Aumento de salário\bin\Debug\net6.0\Aumento de salário.exe
+E:\.Documentos\C#\Ex013\Aumento de salário\bin\Debug\net6.0\Aumento de salário.deps.json
+E:\.Documentos\C#\Ex013\Aumento de salário\bin\Debug\net6.0\Aumento de salário.runtimeconfig.json
+E:\.Documentos\C#\Ex013\Aumento de salário\bin\Debug\net6.0\Aumento de salário.dll
+E:\.Documentos\C#\Ex013\Aumento de salário\bin\Debug\net6.0\ref\Aumento de salário.dll
+E:\.Documentos\C#\Ex013\Aumento de salário\bin\Debug\net6.0\Aumento de salário.pdb
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.AssemblyInfo.cs
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.dll
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\ref\Aumento de salário.dll
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.pdb
+E:\.Documentos\C#\Ex013\Aumento de salário\obj\Debug\net6.0\Aumento de salário.genruntimeconfig.cache

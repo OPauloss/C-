@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48ab6d16-aac4-4ddc-ba4f-4f71c17bf1d3": {
+      "ProjectGuid": "48ab6d16-aac4-4ddc-ba4f-4f71c17bf1d3",
+      "DisplayName": "Aluguel de carros",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
