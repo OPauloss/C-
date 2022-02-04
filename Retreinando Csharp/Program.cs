@@ -1,4 +1,56 @@
-﻿
+﻿static void Calculadora()
+{
+
+
+    do
+    {   Console.WriteLine("=============================================================");
+        Console.WriteLine("\t\t\tCALCULADORA");
+        Console.WriteLine("=============================================================");
+        Console.Write("Digite o primeiro número: ");
+        double num1 = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Digite o segundo número: ");
+        double num2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Qual operação deseja fazer?");
+        Console.WriteLine("[ 1 ] Para SOMA");
+        Console.WriteLine("[ 2 ] Para SUBTRAÇÃO");
+        Console.WriteLine("[ 3 ] Para MULTIPLICAÇÃO");
+        Console.WriteLine("[ 4 ] Para DIVISÃO");
+        int option = Convert.ToInt32(Console.ReadLine());
+
+        double soma = num1 + num2;
+        double sub = num1 - num2;
+        double mult = num1 * num2;
+        double div = num1 / num2;
+
+        switch (option)
+        {
+            
+            case 1:
+                Console.WriteLine($"O resultado da soma: {num1} + {num2} = {soma}");
+                break;
+            case 2:
+                Console.WriteLine($"O resultado da subtração: {num1} - {num2} = {sub}");
+                break;
+            case 3:
+                Console.WriteLine($"O resultado da multiplicação: {num1} x {num2} = {mult}");
+                break;
+            case 4:
+                Console.WriteLine($"O resultado da divisão: {num1} ÷ {num2} = {div}");
+                break;
+            default:
+                Console.WriteLine($"Valor(es) inválido(s).");
+                break;
+
+        }
+        Console.Write("Quer continuar? [S/N]: ");
+    } while (Console.ReadLine().ToUpper() == "S");
+
+    Console.WriteLine("Tchau!");
+    Console.ReadKey();
+}
+
+
 /*
 static void Variables()
 {
