@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\bin\Debug\net6.0\Seno, Cosseno, Tangente.exe
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\bin\Debug\net6.0\Seno, Cosseno, Tangente.deps.json
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\bin\Debug\net6.0\Seno, Cosseno, Tangente.runtimeconfig.json
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\bin\Debug\net6.0\Seno, Cosseno, Tangente.dll
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\bin\Debug\net6.0\ref\Seno, Cosseno, Tangente.dll
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\bin\Debug\net6.0\Seno, Cosseno, Tangente.pdb
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.AssemblyInfo.cs
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.dll
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\ref\Seno, Cosseno, Tangente.dll
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.pdb
+E:\.Documentos\C#\Ex018\Seno, Cosseno, Tangente\obj\Debug\net6.0\Seno, Cosseno, Tangente.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\.Documentos\C#\Ex019\Sorteio de aluno\bin\Debug\net6.0\Sorteio de aluno.exe
+E:\.Documentos\C#\Ex019\Sorteio de aluno\bin\Debug\net6.0\Sorteio de aluno.deps.json
+E:\.Documentos\C#\Ex019\Sorteio de aluno\bin\Debug\net6.0\Sorteio de aluno.runtimeconfig.json
+E:\.Documentos\C#\Ex019\Sorteio de aluno\bin\Debug\net6.0\Sorteio de aluno.dll
+E:\.Documentos\C#\Ex019\Sorteio de aluno\bin\Debug\net6.0\ref\Sorteio de aluno.dll
+E:\.Documentos\C#\Ex019\Sorteio de aluno\bin\Debug\net6.0\Sorteio de aluno.pdb
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.csproj.AssemblyReference.cache
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.AssemblyInfoInputs.cache
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.AssemblyInfo.cs
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.csproj.CoreCompileInputs.cache
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.dll
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\ref\Sorteio de aluno.dll
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.pdb
+E:\.Documentos\C#\Ex019\Sorteio de aluno\obj\Debug\net6.0\Sorteio de aluno.genruntimeconfig.cache

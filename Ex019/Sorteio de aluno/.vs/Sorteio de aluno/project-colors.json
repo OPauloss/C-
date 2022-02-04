@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a54b07cd-0800-4096-b810-94895e4304d9": {
+      "ProjectGuid": "a54b07cd-0800-4096-b810-94895e4304d9",
+      "DisplayName": "Sorteio de aluno",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

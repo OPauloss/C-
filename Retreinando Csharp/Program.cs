@@ -1,6 +1,5 @@
 ﻿
-
-
+/*
 static void Variables()
 {
 
@@ -272,7 +271,160 @@ static void nested_loops()
     Console.ReadKey();
 }
 
+static void Number_guessing_game()
+{
 
+    int guess;
+    int number;
+    bool playAgain = true;
+    int guesses = 0;
+
+    while (playAgain)
+    {
+        Console.WriteLine("Tente adivinhar qual número estou pensando! (Digite um número entre 0 e 100): ");
+        Random random = new Random();
+        number = random.Next(0, 101);
+        guess = Convert.ToInt32(Console.ReadLine());
+
+
+        while (guess != number)
+        {
+
+            if (guess < number)
+            {
+                Console.WriteLine("Chute mais alto...");
+                guess = Convert.ToInt32(Console.ReadLine());
+            }
+            else if (guess > number)
+            {
+                Console.WriteLine("Chute mais baixo...");
+                guess = Convert.ToInt32(Console.ReadLine());
+            }
+            guesses++;
+
+        }
+        Console.WriteLine("Acertou na {0}ª tentativa!!", guesses);
+        Console.WriteLine("Quer jogar de novo? [s/n]");
+        string res = (Console.ReadLine());
+        res = res.ToUpper();
+        if (res == "N")
+        {
+            playAgain = false;
+        }
+        else if (res == "S")
+        {
+            playAgain = true;
+            guesses = 0;
+        }
+    }
+}
+
+static void Jokenpô()
+{
+
+    bool playAgain = true;
+    int player;
+    int cpu;
+
+
+    while (playAgain)
+    {
+        Console.WriteLine("Vamos jogar Jokenpô!");
+        Console.WriteLine("Digite [ 1 ] para PEDRA");
+        Console.WriteLine("Digite [ 2 ] para PAPEL");
+        Console.WriteLine("Digite [ 3 ] para TESOURA");
+        Console.Write(" ---> ");
+        player = Convert.ToInt32(Console.ReadLine());
+        while (player != 1 && player != 2 && player != 3)
+        {
+            Console.WriteLine("Opção Inválida.");
+            Console.ReadKey();
+            Console.Clear();
+            Console.WriteLine("Vamos jogar Jokenpô!");
+            Console.WriteLine("Digite [ 1 ] para PEDRA");
+            Console.WriteLine("Digite [ 2 ] para PAPEL");
+            Console.WriteLine("Digite [ 3 ] para TESOURA");
+            Console.Write(" ---> ");
+            player = Convert.ToInt32(Console.ReadLine());
+        }
+        Random random = new Random();
+        cpu = random.Next(1, 4);
+
+        switch (cpu)
+        {
+            case 1:
+                Console.WriteLine("CPU: [PEDRA]");
+                break;
+            case 2:
+                Console.WriteLine("CPU: [PAPEL]");
+                break;
+            case 3:
+                Console.WriteLine("CPU: [TESOURA]");
+                break;
+        }
+
+        switch (player)
+        {
+            case 1:
+                Console.WriteLine("Player: [PEDRA]");
+                if (cpu == 1)
+                {
+                    Console.WriteLine("EMPATE!");
+                }
+                else if (cpu == 2)
+                {
+                    Console.WriteLine("CPU ganhou...");
+                }
+                else
+                {
+                    Console.WriteLine("Player GANHOU!!");
+                }
+                break;
+            case 2:
+                Console.WriteLine("Player: [PAPEL]");
+                if (cpu == 2)
+                {
+                    Console.WriteLine("EMPATE!");
+                }
+                else if (cpu == 1)
+                {
+                    Console.WriteLine("Player GANHOU!!");
+                }
+                else
+                {
+                    Console.WriteLine("CPU ganhou...");
+                }
+                break;
+            case 3:
+                Console.WriteLine("Player: [TESOURA]");
+                if (cpu == 3)
+                {
+                    Console.WriteLine("EMPATE!");
+                }
+                else if (cpu == 2)
+                {
+                    Console.WriteLine("Player GANHOU!!");
+                }
+                else
+                {
+                    Console.WriteLine("CPU ganhou...");
+                }
+                break;
+
+        }
+        Console.Write("Quer jogar de novo? [s/n]: ");
+        string res = Console.ReadLine();
+        res = res.ToLower();
+        Console.Clear();
+        if (res == "n")
+        {
+            playAgain = false;
+        }
+
+    }
+
+}
+*/
 
 
 
