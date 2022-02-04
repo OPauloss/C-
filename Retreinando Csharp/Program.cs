@@ -1,57 +1,35 @@
-﻿static void Calculadora()
+﻿static void exception_handling() // exceptions são erros que podem acontecer durante o programa.
 {
 
-
-    do
-    {   Console.WriteLine("=============================================================");
-        Console.WriteLine("\t\t\tCALCULADORA");
-        Console.WriteLine("=============================================================");
-        Console.Write("Digite o primeiro número: ");
-        double num1 = Convert.ToDouble(Console.ReadLine());
-        Console.Write("Digite o segundo número: ");
-        double num2 = Convert.ToDouble(Console.ReadLine());
-
-        Console.WriteLine("Qual operação deseja fazer?");
-        Console.WriteLine("[ 1 ] Para SOMA");
-        Console.WriteLine("[ 2 ] Para SUBTRAÇÃO");
-        Console.WriteLine("[ 3 ] Para MULTIPLICAÇÃO");
-        Console.WriteLine("[ 4 ] Para DIVISÃO");
-        int option = Convert.ToInt32(Console.ReadLine());
-
-        double soma = num1 + num2;
-        double sub = num1 - num2;
-        double mult = num1 * num2;
-        double div = num1 / num2;
-
-        switch (option)
-        {
-            
-            case 1:
-                Console.WriteLine($"O resultado da soma: {num1} + {num2} = {soma}");
-                break;
-            case 2:
-                Console.WriteLine($"O resultado da subtração: {num1} - {num2} = {sub}");
-                break;
-            case 3:
-                Console.WriteLine($"O resultado da multiplicação: {num1} x {num2} = {mult}");
-                break;
-            case 4:
-                Console.WriteLine($"O resultado da divisão: {num1} ÷ {num2} = {div}");
-                break;
-            default:
-                Console.WriteLine($"Valor(es) inválido(s).");
-                break;
-
-        }
-        Console.Write("Quer continuar? [S/N]: ");
-    } while (Console.ReadLine().ToUpper() == "S");
-
-    Console.WriteLine("Tchau!");
-    Console.ReadKey();
+    try // tentando executar o programa
+    {
+        Console.Write("Digite o primeiro número da divisão: ");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Digite o segundo número da divisão: ");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+        int res = num1 / num2;
+        Console.WriteLine($"O resultado é {res}");
+    }
+    catch (DivideByZeroException) // em caso de tentativa de divisão por zero, faça:
+    {
+        Console.WriteLine("Não dá pra dividir por zero...");
+    }
+    catch(FormatException) // caso o usuário digite um formato errado, faça:
+    {
+        Console.WriteLine($"Números só podem ser divididos por números...");
+    }
+    catch(Exception) // caso aconteça qualquer outro tipo de erro, faça:
+    {
+        Console.WriteLine($"Alguma coisa deu errado... Verifique os dados.");
+    }
+    finally // No final, independente se ocorreu erros ou não durante o programa, faça:
+    {
+        Console.WriteLine("Obrigado por utilizar o programa.");
+    }
 }
 
 
-/*
+
 static void Variables()
 {
 
@@ -88,7 +66,7 @@ static void Constants()
 
 static void Type_casting()
 {
-
+    const double pi = 3.14;
     int b = Convert.ToInt32(pi); // Converting double to int
     Console.WriteLine(b.GetType()); // verifying the data type
 
@@ -476,8 +454,125 @@ static void Jokenpô()
     }
 
 }
-*/
+
+static void Calculadora()
+{
 
 
+    
+    do{ Console.WriteLine("=============================================================");
+        Console.WriteLine("\t\t\tCALCULADORA");
+        Console.WriteLine("=============================================================");
+        Console.Write("Digite o primeiro número: ");
+        double num1 = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Digite o segundo número: ");
+        double num2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Qual operação deseja fazer?");
+        Console.WriteLine("[ 1 ] Para SOMA");
+        Console.WriteLine("[ 2 ] Para SUBTRAÇÃO");
+        Console.WriteLine("[ 3 ] Para MULTIPLICAÇÃO");
+        Console.WriteLine("[ 4 ] Para DIVISÃO");
+        int option = Convert.ToInt32(Console.ReadLine());
+
+        double soma = num1 + num2;
+        double sub = num1 - num2;
+        double mult = num1 * num2;
+        double div = num1 / num2;
+
+        switch (option)
+        {
+            
+            case 1:
+                Console.WriteLine($"O resultado da soma: {num1} + {num2} = {soma}");
+                break;
+            case 2:
+                Console.WriteLine($"O resultado da subtração: {num1} - {num2} = {sub}");
+                break;
+            case 3:
+                Console.WriteLine($"O resultado da multiplicação: {num1} x {num2} = {mult}");
+                break;
+            case 4:
+                Console.WriteLine($"O resultado da divisão: {num1} ÷ {num2} = {div}");
+                break;
+            default:
+                Console.WriteLine($"Valor(es) inválido(s).");
+                break;
+
+        }
+        Console.Write("Quer continuar? [S/N]: ");
+    } while (Console.ReadLine().ToUpper() == "S");
+
+    Console.WriteLine("Tchau!");
+    Console.ReadKey();
+}
+
+static void Arrays()
+{
+    string[] cars = { "BMW", "Corsinha", "Celta"}; // criação de um array com itens definidos.
+    string [] cars2 = new string[5]; // criação de um array com 5 itens.
+
+    // Todo array tem um limite que deve ser definido com antecedência, ou definido diretamente dentro de chaves.
+
+    cars[0] = "Tesla"; // Mudando um item de dentro do array.
+
+    Console.WriteLine(cars[0]); // Primeiro item do array
+    Console.WriteLine(cars[1]); // Segundo item do array
+    Console.WriteLine(cars[2]); // Terceiro item do array...
 
 
+    Console.ReadKey();
+
+    for (int i = 0; i < cars.Length; i++)
+    {
+        Console.WriteLine($"Carro {i + 1} = {cars[i]}");
+    }
+}
+
+static void Foreach()
+{
+    string[] cars = {"BMW", "Tesla", "Fusquinha"};
+
+    foreach (string car in cars) // foreach é uma outra forma de loop do tipo "for", mais fácil de escrever, mas menos flexível, porque não é possível definir o passo, como no "for" convencional.
+    {
+        Console.WriteLine(car);
+    }
+}
+
+static void Functions()
+{
+    //Para declarar uma função, é só começar com static void <nomedaFunção()>
+    //Depois, basta chamar a função dentro do escopo principal.
+}
+
+static void Method_overloading()
+{
+    Console.WriteLine(Multiply(5,4));
+
+    static double Multiply(double a, double b) // Tem que trocar o "void" pelo datatype do retorno. Caso não haja nenhum retorno, deixe "void".
+    {
+        return a * b;
+    }
+    //static double Multiply(double a, double b, double c) // É possível ter dois métodos com o mesmo nome, desde que eles tenham "assinaturas" diferentes, isto é, parâmetros diferentes.
+   // {
+   //     return a * b * c;
+   // }
+    // Por alguma razão o overloading não está funcionando... 
+}
+
+static void Params_keyword() // A keyword "params" faz com que uma função possa receber valores parâmetros ilimitados. Para isso, é preciso criar um array e passá-lo como método de uma função:
+{
+    double total = 0;
+    total = Checkout(3.99, 1.00, 7.90, 10.90, 43.88);
+    Console.WriteLine(total);
+
+    static double Checkout(params double[] prices)
+    {
+        double total = 0;
+        foreach (double price in prices)
+        {
+            total += price;
+        }
+        return total;
+    }
+}
