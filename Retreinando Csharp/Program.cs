@@ -1,32 +1,4 @@
-﻿static void exception_handling() // exceptions são erros que podem acontecer durante o programa.
-{
-
-    try // tentando executar o programa
-    {
-        Console.Write("Digite o primeiro número da divisão: ");
-        int num1 = Convert.ToInt32(Console.ReadLine());
-        Console.Write("Digite o segundo número da divisão: ");
-        int num2 = Convert.ToInt32(Console.ReadLine());
-        int res = num1 / num2;
-        Console.WriteLine($"O resultado é {res}");
-    }
-    catch (DivideByZeroException) // em caso de tentativa de divisão por zero, faça:
-    {
-        Console.WriteLine("Não dá pra dividir por zero...");
-    }
-    catch(FormatException) // caso o usuário digite um formato errado, faça:
-    {
-        Console.WriteLine($"Números só podem ser divididos por números...");
-    }
-    catch(Exception) // caso aconteça qualquer outro tipo de erro, faça:
-    {
-        Console.WriteLine($"Alguma coisa deu errado... Verifique os dados.");
-    }
-    finally // No final, independente se ocorreu erros ou não durante o programa, faça:
-    {
-        Console.WriteLine("Obrigado por utilizar o programa.");
-    }
-}
+﻿//Próximo tema: objetos
 
 
 
@@ -575,4 +547,115 @@ static void Params_keyword() // A keyword "params" faz com que uma função poss
         }
         return total;
     }
+}
+
+static void exception_handling() // exceptions são erros que podem acontecer durante o programa.
+{
+
+    try // tentando executar o programa
+    {
+        Console.Write("Digite o primeiro número da divisão: ");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Digite o segundo número da divisão: ");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+        int res = num1 / num2;
+        Console.WriteLine($"O resultado é {res}");
+    }
+    catch (DivideByZeroException) // em caso de tentativa de divisão por zero, faça:
+    {
+        Console.WriteLine("Não dá pra dividir por zero...");
+    }
+    catch(FormatException) // caso o usuário digite um formato errado, faça:
+    {
+        Console.WriteLine($"Números só podem ser divididos por números...");
+    }
+    catch(Exception) // caso aconteça qualquer outro tipo de erro, faça:
+    {
+        Console.WriteLine($"Alguma coisa deu errado... Verifique os dados.");
+    }
+    finally // No final, independente se ocorreu erros ou não durante o programa, faça:
+    {
+        Console.WriteLine("Obrigado por utilizar o programa.");
+    }
+}
+
+static void conditional_operator()
+{
+
+    // Conditional operator = used in conditional assignement if a condition is true or false
+    // (condition) ? x : y
+
+    double temperature = 20;
+    string message;
+
+    //if (temperature >= 15)
+    //{
+    //    message = "It's warm outside!";
+    //}
+    //else
+    //{
+    //    message = "It's cold outside!";
+    //}
+    //Console.WriteLine(message);
+
+    // The same can be written as:
+
+    message = (temperature >= 15) ? "It's warm outside!" : "It's cold outside!";
+    Console.WriteLine(message);
+    Console.ReadKey();
+}
+
+static void Multidimensional_arrays()
+{
+    // Maneira tradicional de se criar arrays:
+
+    //string[] playstation = {"God of War", "The Last of Us", "Uncharted"};
+    //string[] xbox = {"Halo", "Gears of War", "Sunset Overdrive"};
+    //string[] nintendo = {"Pokémon", "Mario", "Animal Crossing"};
+
+    // Maneira resumida de se fazer múltiplos arrays.
+
+    string[,] videoGames = 
+    {
+        {"God of War", "The Last of Us", "Uncharted"},
+        {"Halo", "Gears of War", "Sunset Overdrive"},
+        {"Pokémon", "Mario", "Animal Crossing"}
+    };
+
+    videoGames[0, 2] = "Spiderman"; // trocando Uncharted (primeiro array [0], terceiro item [2]) por Spiderman.
+    videoGames[2, 2] = "Zelda"; // trocando Animal Crossing por Zelda.
+}
+
+static void classes()
+{
+
+
+    // Uma classe é um conjunto de funções com códigos relacionados. Por exemplo, a biblioteca Math é uma classe, contendo diversas funções de operações matemáticas. É possível criar a própria classe:
+
+    //class Messages
+    {
+        void Hello()
+        {
+            Console.WriteLine("Hello!");
+        }
+
+        void Waiting()
+        {
+            Console.WriteLine("Waiting for something to happen?");
+        }
+
+        void Bye()
+        {
+            Console.WriteLine("See you later!");
+        }
+    }
+
+    // Claro que, as classes são feitas para guardar métodos mais completos, mas isso serve de exemplo. Classes são um conjunto de métodos relacionados. Assim como os módulos no Python.
+    // Também é possível criar as classes em outro repositório, fora do programa principal. Para isso, basta seguir:
+
+    // Clique direito no nome do programa dentro do gerenciador de soluções > adicionar > classe. Selecione o item classe na janela que se abrir > dê um nome a classe > clique em adicionar.
+    // Depois, será necessário recortar o código do programa principal, se houver, e colar na nova janela de classe.
+    // Para acessar os métodos de uma classe que está em outro repositório:
+    // > Defina a predefinição das funções da classe para "public static".
+    // > No programa principal, digite: <nomedaClasse>.<nomedaFunção(); . Por exemplo: Messages.Hello();
 }
