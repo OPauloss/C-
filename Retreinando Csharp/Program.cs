@@ -1,6 +1,66 @@
-﻿//Próximo tema: objetos
+﻿
 
 
+/*
+static void Constructors()
+{
+
+    // Constructor = A special method in a class
+    //               Same name as the class name
+    //               Can be used to assign arguments to fields when creating an object
+
+    Human human1 = new Human("Rick", 65); // Passando parâmetros para o objeto
+    Human human2 = new Human("Morty", 16);
+
+    class Human
+    {
+        public string name;
+        public int age;
+
+        public Human(string name, int age) // Parameters of the object
+        {
+            this.name = name;
+            this.age = age;
+        }
+    }
+}
+
+static void Objects()
+{
+
+    //Objetos: Uma instância de uma classe
+            // Uma classe pode ser usada como modelo para criar objetos (POO)
+            // Objetos podem ter "fields" e "methods" (características e ações) 
+
+    Human human1 = new Human(); // Human object named human1
+    Human human2 = new Human(); // Human object named human2
+    human1.name = "Rick"; // Name of human1 is Rick
+    human1.age = 65; // Rick is 65 years old
+    human2.name = "Morty";
+    human2.age = 16;
+
+    human1.Eat();
+    human1.Sleep();
+
+    class Human // Objeto da classe Human criado
+    {
+        // Características do objeto
+        public string name;
+        public int age;
+
+
+        // O que o objeto Human faz:
+        public void Eat()
+        {
+            Console.WriteLine($"{name} is eaten");
+        }
+
+        public void Sleep()
+        {
+            Console.WriteLine($"{name} is sleeping");
+        }
+    }
+}
 
 static void Variables()
 {
@@ -659,3 +719,4 @@ static void classes()
     // > Defina a predefinição das funções da classe para "public static".
     // > No programa principal, digite: <nomedaClasse>.<nomedaFunção(); . Por exemplo: Messages.Hello();
 }
+*/
