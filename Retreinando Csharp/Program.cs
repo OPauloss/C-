@@ -1,66 +1,44 @@
 ﻿
 
+// abstract classes = modifier that indicates missing components or incomplete implementation
 
 /*
-static void Constructors()
+
+// Overloaded constructors = technique to create multiple constructors, with a different set of parameters. 
+// name + parameters = signature
+
+Pizza pizza = new Pizza("Stuffed crust", "red sauce", "mozzarella", "pepperoni");
+
+class Pizza
 {
+    string bread;
+    string sauce;
+    string cheese;
+    string topping;
 
-    // Constructor = A special method in a class
-    //               Same name as the class name
-    //               Can be used to assign arguments to fields when creating an object
+    // É possível criar constructors com o mesmo nome, mas com padrão de parâmetros ou parâmetros diferentes. Assim como as funções.
 
-    Human human1 = new Human("Rick", 65); // Passando parâmetros para o objeto
-    Human human2 = new Human("Morty", 16);
-
-    class Human
+    public Pizza(string bread, string sauce)
     {
-        public string name;
-        public int age;
+        this.bread = bread;
+        this.sauce = sauce;
+    }
 
-        public Human(string name, int age) // Parameters of the object
-        {
-            this.name = name;
-            this.age = age;
-        }
+    public Pizza(string bread, string sauce, string cheese)
+    {
+        this.bread = bread;
+        this.sauce = sauce;
+        this.cheese = cheese;
+    }
+    public Pizza(string bread, string sauce, string cheese, string topping)
+    {
+        this.bread = bread;
+        this.sauce = sauce;
+        this.cheese = cheese;
+        this.topping = topping;
     }
 }
 
-static void Objects()
-{
-
-    //Objetos: Uma instância de uma classe
-            // Uma classe pode ser usada como modelo para criar objetos (POO)
-            // Objetos podem ter "fields" e "methods" (características e ações) 
-
-    Human human1 = new Human(); // Human object named human1
-    Human human2 = new Human(); // Human object named human2
-    human1.name = "Rick"; // Name of human1 is Rick
-    human1.age = 65; // Rick is 65 years old
-    human2.name = "Morty";
-    human2.age = 16;
-
-    human1.Eat();
-    human1.Sleep();
-
-    class Human // Objeto da classe Human criado
-    {
-        // Características do objeto
-        public string name;
-        public int age;
-
-
-        // O que o objeto Human faz:
-        public void Eat()
-        {
-            Console.WriteLine($"{name} is eaten");
-        }
-
-        public void Sleep()
-        {
-            Console.WriteLine($"{name} is sleeping");
-        }
-    }
-}
 
 static void Variables()
 {
@@ -718,5 +696,136 @@ static void classes()
     // Para acessar os métodos de uma classe que está em outro repositório:
     // > Defina a predefinição das funções da classe para "public static".
     // > No programa principal, digite: <nomedaClasse>.<nomedaFunção(); . Por exemplo: Messages.Hello();
+}
+
+static void Objects()
+{
+
+    //Objetos: Uma instância de uma classe
+            // Uma classe pode ser usada como modelo para criar objetos (POO)
+            // Objetos podem ter "fields" e "methods" (características e ações) 
+
+    Human human1 = new Human(); // Human object named human1
+    Human human2 = new Human(); // Human object named human2
+    human1.name = "Rick"; // Name of human1 is Rick
+    human1.age = 65; // Rick is 65 years old
+    human2.name = "Morty";
+    human2.age = 16;
+
+    human1.Eat();
+    human1.Sleep();
+
+    class Human // Objeto da classe Human criado
+    {
+        // Características do objeto
+        public string name;
+        public int age;
+
+
+        // O que o objeto Human faz:
+        public void Eat()
+        {
+            Console.WriteLine($"{name} is eaten");
+        }
+
+        public void Sleep()
+        {
+            Console.WriteLine($"{name} is sleeping");
+        }
+    }
+}
+
+static void Constructors()
+{
+
+    // Constructor = A special method in a class
+    //               Same name as the class name
+    //               Can be used to assign arguments to fields when creating an object
+
+    Human human1 = new Human("Rick", 65); // Passando parâmetros para o objeto
+    Human human2 = new Human("Morty", 16);
+
+    class Human
+    {
+        public string name;
+        public int age;
+
+        public Human(string name, int age) // Parameters of the object
+        {
+            this.name = name;
+            this.age = age;
+        }
+    }
+}
+
+static void Static()
+{
+        // static = modifier to declare a static member, which belongs to the class itself rather than to any specific object
+
+    Car car1 = new Car("Mustang");
+    Car car2 = new Car("Corvette");
+    Car car3 = new Car("Lamborguini");
+
+    Console.WriteLine(Car.numberofCars);
+
+    Console.ReadKey();
+
+    class Car
+    {
+        string model;
+        public static int numberofCars; // Se não especificar o static, cada objeto Car terá sua própria contagem. O Static faz com que a variável seja da classe e não do objeto.
+
+        public Car(string model)
+        {
+            this.model = model;
+            numberofCars++;
+        }
+    }
+}
+
+
+static void Herança()
+{
+
+    // inheritance = 1 or more child classes recieving fields, methods, etc. from a common parent.
+
+    Car car = new Car();
+    Bicycle bicycle = new Bicycle();
+    Boat boat = new Boat();
+
+    Console.WriteLine(car.speed);
+    Console.WriteLine(car.wheels);
+    car.go();
+
+    Console.WriteLine(bicycle.speed);
+    Console.WriteLine(bicycle.wheels);
+    bicycle.go();
+
+    class Vehicle
+    {
+        public int speed = 0; //atributo de veículo
+        
+        public void go() // ações do veículo
+        {
+            Console.WriteLine("This vehicle is moving!");
+        }
+
+    }
+
+    class Car : Vehicle // O objeto Car vai herdar os atributos e ações  do objeto Vehicle
+    {
+        public int wheels = 4;
+    }
+
+    class Bicycle : Vehicle
+    {
+        public int wheels = 2; // herda 4 de Car, mas é possível mudar para o valor conveniente.
+
+    }
+
+    class Boat : Vehicle
+    {
+        public int wheels = 0;
+    }
 }
 */
